@@ -1,0 +1,10 @@
+body {
+    display: grid;
+    justify-content: center;
+    background-color: aquamarine
+}
+button {
+    background-color: darkmagenta;
+    border-radius: 50px;
+    color: floralwhite;
+}
